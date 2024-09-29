@@ -12,6 +12,7 @@ A API foi criada utilizando as seguintes tecnologias:
     * Node.js:
         Instalar o express;
         Instalar o datenv;
+        Instalar o cors;
 
     * MongoDB Atlas como banco de dados:
         Para acessar a base de dados é necessário logar na conta no MongoDB Atlas utilizando o link abaixo:
